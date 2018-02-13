@@ -12,4 +12,8 @@ https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Match_patterns
 
 https://github.com/mdn/webextensions-examples/blob/master/user-agent-rewriter/manifest.json
 
-But wait: https://developer.mozilla.org/en-US/docs/Glossary/Forbidden_header_name ???
+But wait: 
+
+  https://developer.mozilla.org/en-US/docs/Glossary/Forbidden_header_name ???
+  https://github.com/qooxdoo/qooxdoo/issues/9298
+  https://github.com/qooxdoo/qooxdoo/issues/1214
